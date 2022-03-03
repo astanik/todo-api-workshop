@@ -1,4 +1,4 @@
-# Todo-API based on Quarkus
+# Todo-API based on Quarkus (changed by Alex)
 This project uses Quarkus to provide a simple todo-app API. It implements an [OpenAPI spec](https://editor.swagger.io/?url=https://raw.githubusercontent.com/devshred/todo-api-spring-kotlin/main/src/main/resources/todo-spec.yaml) and can be tested with a [frontend based on Vue.js](https://github.com/devshred/todo-web).
 
 ## Deployment
